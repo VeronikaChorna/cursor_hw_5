@@ -32,10 +32,12 @@ img {
 
 #column1 {
     width: 50%;
+    font-weight: 900;
 }
 
 #column2 {
     width: 30%;
+    font-weight: 900;
 }
 
 #column3 {
@@ -98,4 +100,5 @@ span {
 
 ::placeholder {
     color: aliceblue;
+    text-align: center;
 }
