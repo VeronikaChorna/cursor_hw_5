@@ -8,6 +8,10 @@ img {
     height: 20px;
 }
 
+.dots {
+    margin-left: 100px;
+}
+
 .table1, .table2, .table3 {
     width: 750px;
     color: rgb(252, 252, 250);
@@ -24,6 +28,18 @@ img {
 
 .theader1 {
     height: 50px;
+}
+
+#column1 {
+    width: 50%;
+}
+
+#column2 {
+    width: 30%;
+}
+
+#column3 {
+    width: 20%;
 }
 
 .table1 th, td {
@@ -65,4 +81,21 @@ th {
 
 input {
     margin-right: 10px;
+}
+
+span {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#input-search {
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(72, 71, 69);
+    opacity: 0.5;
+}
+
+::placeholder {
+    color: aliceblue;
 }
