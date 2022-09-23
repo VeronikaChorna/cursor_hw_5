@@ -1,0 +1,68 @@
+body {
+    padding: 50px 50px;
+    background-color: rgba(0,0,0,.8);
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
+
+.table1, .table2, .table3 {
+    width: 750px;
+    color: rgb(252, 252, 250);
+    border: 1px solid rgb(252, 252, 250);
+    margin: 50px;
+}
+
+.table1 tr {
+    border: 1px solid black;
+    height: 50px;
+    border-color: rgb(252, 252, 250);
+    padding: 10px;
+}
+
+.theader1 {
+    height: 50px;
+}
+
+.table1 th, td {
+    width: 250px;
+    padding: 10px;
+}
+
+th {
+    text-align: left;
+    text-decoration: solid;
+  }
+
+.table2 tr {
+    border: 1px solid black;
+    height: 50px;
+    border-color: rgb(252, 252, 250);
+    padding: 10px;
+}
+
+.table2 th, td {
+    padding: 10px;
+}
+
+.table3 tr {
+    border: 1px solid black;
+    height: 50px;
+    border-color: rgb(252, 252, 250);
+    padding: 10px;
+}
+
+.table3 th, td {
+    padding: 10px;
+}
+
+th {
+    text-align: left;
+    text-decoration: solid;
+}
+
+input {
+    margin-right: 10px;
+}
