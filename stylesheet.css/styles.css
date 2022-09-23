@@ -12,6 +12,10 @@ img {
     margin-left: 100px;
 }
 
+.row2 {
+    opacity: 0.5;
+}
+
 .table1, .table2, .table3 {
     width: 750px;
     color: rgb(252, 252, 250);
